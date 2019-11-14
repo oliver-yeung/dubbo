@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [14/Nov/2019:09:25:22 +0800] "GET /dubbo_web HTTP/1.1" 302 - http-bio-83-exec-2 0
+0:0:0:0:0:0:0:1 - - [14/Nov/2019:09:25:22 +0800] "GET /dubbo_web/ HTTP/1.1" 200 52 http-bio-83-exec-3 634
+0:0:0:0:0:0:0:1 - - [14/Nov/2019:09:25:23 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-83-exec-4 0
+0:0:0:0:0:0:0:1 - - [14/Nov/2019:09:25:34 +0800] "GET /dubbo_web/user/findAll HTTP/1.1" 200 773 http-bio-83-exec-7 530
